@@ -106,7 +106,7 @@ The dashboard provides a comprehensive view of operational efficiency, delay pat
 
 ## Project Files
 
-* [Download the full interactive dashboard](files/Flight-Dashboard.pbix)
+* [Download the full interactive dashboard](https://github.com/mykalgallardo/PowerBI-Projects/raw/main/files/Flight-Dashboard.pbix)
 
 ---
 
