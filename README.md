@@ -106,8 +106,7 @@ The dashboard provides a comprehensive view of operational efficiency, delay pat
 
 ## Project Files
 
-* `flight_dashboard.pbix` → Full interactive dashboard
-* `flight_dashboard.png` → Static version
+* `[flight_dashboard.pbix](files/flight_dashboard.pbix)` → Full interactive dashboard
 * `images/` → Dashboard screenshots
 
 ---
