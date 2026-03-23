@@ -93,6 +93,8 @@ images/Overview.png
 
 Operational Analysis
 
+images/Operational Analysis.png
+
 ---
 
 ## 📁 Project Files
