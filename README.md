@@ -93,7 +93,7 @@ Overview
 
 Operational Analysis
 
-![Overview](images/Operational_Analysis.png)
+![Operational Analysis](images/Operational_Analysis.png)
 
 ---
 
