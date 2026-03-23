@@ -100,7 +100,7 @@ The dashboard provides a comprehensive view of operational efficiency, delay pat
 ![Performance](images/Performance-Summary.png)
 
 ### Full Dashboard
-![Full Dashboard](images/full-dashboard.png)
+![Full Dashboard](images/Flight-Dashboard-Overview.png)
 
 ---
 
