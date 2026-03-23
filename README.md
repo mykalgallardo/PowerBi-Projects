@@ -87,17 +87,24 @@ The dashboard provides a comprehensive view of operational efficiency, delay pat
 
 ## Dashboard Preview
 
-Overview
-
+### Executive Overview
 ![Overview](images/Overview.png)
 
-Operational Analysis
+### Operational Analysis
+![Operations](images/Operational-Analysis.png)
 
-![Operational Analysis](images/Operational-Analysis.png)
+### Cancellation Insights
+![Cancellation](images/Cancellation-Insights.png)
+
+### Performance Summary
+![Performance](images/Performance-Summary.png)
+
+### Full Dashboard
+![Full Dashboard](images/full-dashboard.png)
 
 ---
 
-## 📁 Project Files
+## Project Files
 
 * `flight_dashboard.pbix` → Full interactive dashboard
 * `flight_dashboard.png` → Static version
@@ -105,7 +112,7 @@ Operational Analysis
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. Download the `.pbix` file
 2. Open in Power BI Desktop
@@ -113,7 +120,7 @@ Operational Analysis
 
 ---
 
-## 👤 Author
+## Author
 
 Gage Gallardo
 
