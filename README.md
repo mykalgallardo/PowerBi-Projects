@@ -87,7 +87,11 @@ The dashboard provides a comprehensive view of operational efficiency, delay pat
 
 ## Dashboard Preview
 
+Overview
 
+images/Overview.png
+
+Operational Analysis
 
 ---
 
