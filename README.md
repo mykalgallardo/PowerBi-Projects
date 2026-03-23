@@ -38,7 +38,7 @@ The dashboard provides a comprehensive view of operational efficiency, delay pat
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 ## Overall Performance
 
@@ -89,11 +89,11 @@ The dashboard provides a comprehensive view of operational efficiency, delay pat
 
 Overview
 
-images/Overview.png
+![Overview](images/Overview.png)
 
 Operational Analysis
 
-images/Operational Analysis.png
+![Overview](images/Operational_Analysis.png)
 
 ---
 
